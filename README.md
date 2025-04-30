@@ -5,7 +5,7 @@
 - ✅ 从 `.txt`、`.pdf`、`.md`、`.docx` 文档中提取内容
 - ✅ 使用 Qwen 的 text-embedding-v1 进行向量嵌入
 - ✅ 向量检索 + Qwen Turbo 生成回答
-- ✅ Vue3 前端支持输入 API Key 和 Query，展示回答与参考内容
+- ✅ Vue3 前端支持输入 API Key 和 Query，展示回答与参考内容 (获取qwen api key请参考 https://bailian.console.aliyun.com/?tab=api#/api)
 - ✅ 嵌入与查询流程完全分离，便于快速部署
 
 ---

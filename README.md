@@ -14,7 +14,7 @@
 
 ### ✅ 1. 克隆项目
 ```bash
-git clone https://github.com/yourname/rag-local-qwen.git
+git clone https://github.com/ybenzou/rag-local-qwen.git
 cd rag-local-qwen
 ```
 
